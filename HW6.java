@@ -51,5 +51,5 @@ public class HW6
       //prints values
        
    }//end method
-   
+    
 }//end class
